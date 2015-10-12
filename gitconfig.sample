@@ -1,0 +1,36 @@
+[user]
+	name = Ryan Neufeld
+	email = rneufeld@opendns.com
+
+[push]
+	default = simple
+
+[alias]
+	br = branch
+	ci = commit
+	co = checkout
+	df = diff
+	g = grep -I
+	lga = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ci) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative --all
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%ci) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	pb = publish-branch
+	sm = show-merges
+	st = status
+	remotes = remote -v
+	tags = tags -l
+	branches = branch -l
+
+[color]
+	ui = auto
+
+[core]
+	whitespace = space-before-tab,indent-with-non-tab,trailing-space
+	autocrlf = input
+	safecrlf = false
+	editor = subl -w
+
+[help]
+	autocorrect = 1
+
+[credential]
+	helper = osxkeychain

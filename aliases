@@ -1,0 +1,5 @@
+ga='git add'
+gc='git commit -v'
+gst='git status'
+gsta='git stash'
+gwch='git whatchanged -p --abbrev-commit --pretty=medium'
