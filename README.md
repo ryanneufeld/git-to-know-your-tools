@@ -56,6 +56,14 @@
 ## git checkout -b
 ## git branch
 
+# git rebase
+
+# git pull
+
+# git reflog
+
+## Ignore certain patches
+- Git can let you make changes, say to a db config, and then ignore the changes you've made, such as db username/password
 
 
 # Notes:
