@@ -15,6 +15,17 @@ Abed and Brita are working on a project together
 - Reverting changes means restoring an old version, or knowing exactly what lines changed.
 
 
+This is clearly a mess.
+
+One day the Dean is walking by and hears Abed and Brita arguing about who's fault it was to give Chang access to the source code. "It sounds like you need version control, you should checkout that git thingy I hear the IT guys talking about."
+
+-- Scene -- 
+
+
+
+
+
+
 - Pros and cons
     + Web ui isn't terrible, but isn't great for finding the right version of your file.
     + Dropbox lets them get back older versions of files, or deleted files.
